@@ -24,4 +24,4 @@ __5.__ Uso de Comandos:
 __6.__ Responsabilidade:
  * A __equipe__ da __Yuky__ não se __responsabiliza__ por danos resultantes do uso do bot.
 __Ao utilizar o Yuky, você concorda com estes termos.__
-###### [Dúvidas? Entre em contato com a equipe do Yuky!](https://discord.com/invite/Kqw4G96fzQ)
+###### [Dúvidas? Entre em contato com a equipe da Yuky!](https://discord.com/invite/Kqw4G96fzQ)
