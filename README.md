@@ -2,6 +2,7 @@
 
 Yuky: **Política de Privacidade e Termos de Uso
 Bem-vindo ao Yuky! Ao utilizar nosso bot multifuncional, você concorda com os termos descritos abaixo.**
+
 __1.__ O que coletamos:
  * Nome e __ID__ do __usuário__ e do __servidor__ (para uso interno).
 Compartilhamento:
