@@ -1,7 +1,6 @@
 ## Yuky Política de Privacidade Termos de Uso
 
-Yuky: **Política de Privacidade e Termos de Uso
-Bem-vindo ao Yuky! Ao utilizar nosso bot multifuncional, você concorda com os termos descritos abaixo.**
+Equipe Yuky: **obrigado por usar a Yuky! Ao utilizar nossa bot "Yuky", você concorda com os termos descritos abaixo.**
 
 __1.__ O que coletamos:
  * Nome e __ID__ do __usuário__ e do __servidor__ (para uso interno).
