@@ -1,0 +1,1 @@
+# Yuky-Pol-tica-de-Privacidade-Termos-de-Uso
