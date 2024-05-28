@@ -17,7 +17,7 @@ __4.__ Uso responsável:
  * __Respeite__ a __privacidade__ dos usuários.
 
 __5.__ Uso de Comandos:
- * __Jamais__ use contas __secundárias__ para se __beneficiar__, caso use alguma hora descobriremos, e você será banido de usar a yuky.
+ * __Jamais__ use contas __secundárias__ para se __beneficiar__. __Banimento imediato__.
  * __Evite__ spam de Comandos, comandos Excessivos podem poluir o chat.
  * Qualquer Bug encontrado relatar no [servidor de suporte](https://discord.com/invite/Kqw4G96fzQ) da Yuky. 
    
