@@ -9,6 +9,7 @@ __1.__ O que coletamos:
 __2.__ Compartilhamento:
  * __Nunca__ divulgamos informações coletadas a terceiros.
  * A equipe do __Yuky__ pode ter acesso às informações para fins de suporte e __desenvolvimento__.
+
 __3.__ Atualizações:
  * Podemos __alterar__ estes termos a qualquer momento, mas sempre __notificaremos__ as mudanças.
 Uso __responsável__:
