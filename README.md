@@ -15,4 +15,4 @@ Uso __responsável__:
 __Responsabilidade__:
  * A __equipe__ da __Yuky__ não se __responsabiliza__ por danos resultantes do uso do bot.
 __Ao utilizar o Yuky, você concorda com estes termos.__
-#### Dúvidas? Entre em contato com a equipe do Yuky!
+###### Dúvidas? Entre em contato com a equipe do Yuky!
