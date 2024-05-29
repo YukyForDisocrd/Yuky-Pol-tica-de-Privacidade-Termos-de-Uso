@@ -1,4 +1,4 @@
-## Yuky Política de Privacidade Termos de Uso
+### Yuky Política de Privacidade Termos de Uso
 
 Equipe Yuky: **obrigado por usar a Yuky! Ao utilizar nossa bot "Yuky", você concorda com os termos descritos abaixo.**
 
