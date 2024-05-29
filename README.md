@@ -19,7 +19,7 @@ __4.__ Uso responsável:
 __5.__ Uso de Comandos:
  * __Jamais__ use contas __secundárias__ para se __beneficiar__. __Banimento imediato__.
  * __Evite__ spam de Comandos, comandos Excessivos podem poluir o chat.
- * Qualquer Bug encontrado relatar no [servidor de suporte](https://discord.com/invite/Kqw4G96fzQ) da Yuky. 
+ * Qualquer Bug encontrado relatar no **[servidor de suporte](https://discord.com/invite/Kqw4G96fzQ)** da Yuky. 
    
 __6.__ Responsabilidade:
  * A __equipe__ da __Yuky__ não se __responsabiliza__ por danos resultantes do uso do bot.
