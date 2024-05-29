@@ -1,4 +1,4 @@
-### Política de Privacidade Termos de Uso
+## [Política de Privacidade Termos de Uso](https://github.com/YukyForDisocrd/Yuky-Pol-tica-de-Privacidade-Termos-de-Uso/main/README.md)
 
 Equipe Yuky: **obrigado por usar a Yuky! Ao utilizar nossa bot "Yuky", você concorda com os termos descritos abaixo.**
 
